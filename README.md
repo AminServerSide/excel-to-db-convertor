@@ -21,5 +21,5 @@ This is a Django web application that allows users to upload an Excel file (`exa
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/excel-import-django.git
+   git clone https://github.com/AminServerSide/excel-to-db-convertor.git
    cd excel-import-django
